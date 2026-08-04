@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Transit-VQ-Dashboard/static/css/main.5fc23699.css",
+    "main.js": "/Transit-VQ-Dashboard/static/js/main.8b441bab.js",
+    "static/js/66.a9cb545f.chunk.js": "/Transit-VQ-Dashboard/static/js/66.a9cb545f.chunk.js",
+    "static/js/453.af084511.chunk.js": "/Transit-VQ-Dashboard/static/js/453.af084511.chunk.js",
+    "index.html": "/Transit-VQ-Dashboard/index.html",
+    "main.5fc23699.css.map": "/Transit-VQ-Dashboard/static/css/main.5fc23699.css.map",
+    "main.8b441bab.js.map": "/Transit-VQ-Dashboard/static/js/main.8b441bab.js.map",
+    "66.a9cb545f.chunk.js.map": "/Transit-VQ-Dashboard/static/js/66.a9cb545f.chunk.js.map",
+    "453.af084511.chunk.js.map": "/Transit-VQ-Dashboard/static/js/453.af084511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc23699.css",
+    "static/js/main.8b441bab.js"
+  ]
+}
